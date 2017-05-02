@@ -35,22 +35,22 @@
 		"technologies": [{
 			"name": "Git",
 			"number_of_years": 1
-		]
-		},
+		}]
+	},
 		{
 		"category": "Web Technologies",
 		"technologies": [{
 			"name": "PHP, Javascript, HTML",
 			"number_of_years": 2
-		]
-		},
+		}]
+	},
 		{
 		"category": "Databases",
 		"technologies": [{
 			"name": "MySQL",
 			"number_of_years": 2
-		]
-		}
+		}]
+	}
 	],
 	"work": [{
 		"company": "Rogomi Inc.",
