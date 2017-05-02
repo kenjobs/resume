@@ -29,7 +29,24 @@
 			"name": "Java",
 			"number_of_years": 2
 		}]
-	}],
+	}, 
+		{
+		"category": "Programming Languages",
+		"technologies": [{
+			"name": "Swift",
+			"number_of_years": 1
+		}, {
+			"name": "PHP",
+			"number_of_years": 2
+		}, {
+			"name": "Objective C",
+			"number_of_years": 1
+		}, {
+			"name": "Java",
+			"number_of_years": 2
+		}]
+	}				
+	],
 	"work": [{
 		"company": "Rogomi Inc.",
 		"position": "Mobile Developer",
