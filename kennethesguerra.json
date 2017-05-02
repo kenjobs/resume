@@ -31,21 +31,26 @@
 		}]
 	}, 
 		{
-		"category": "Programming Languages",
+		"category": "Version Control",
 		"technologies": [{
-			"name": "Swift",
+			"name": "Git",
 			"number_of_years": 1
-		}, {
-			"name": "PHP",
+		]
+		},
+		{
+		"category": "Web Technologies",
+		"technologies": [{
+			"name": "PHP, Javascript, HTML",
 			"number_of_years": 2
-		}, {
-			"name": "Objective C",
-			"number_of_years": 1
-		}, {
-			"name": "Java",
+		]
+		},
+		{
+		"category": "Databases",
+		"technologies": [{
+			"name": "MySQL",
 			"number_of_years": 2
-		}]
-	}				
+		]
+		}
 	],
 	"work": [{
 		"company": "Rogomi Inc.",
