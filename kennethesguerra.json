@@ -13,7 +13,8 @@
 		"startDate": "2010",
 		"endDate": "2017"
 	}],
-	"skills": [{
+	"skills": [
+		{
 		"category": "Programming Languages",
 		"technologies": [{
 			"name": "Swift",
@@ -34,18 +35,18 @@
 		"position": "Mobile Developer",
 		"startDate": "October 2016",
 		"endDate": "Present",
-		"summary": "",
+		"summary": "Develop iOS mobile application projects' of our company. Contribute on UI development of the app and helped in improving standards on local storage related features using iOS technology, Core Data.",
 		"highlights": [],
 		"projects": [{
 			"name": "ShApp4Points",
-			"description": "A business to consumer mobile application that enables consumer to sync purchases information and receive rewards. Our main task is to develop the designed modules and features as well as full customization of the app.",
+			"description": "A business to consumer mobile application that enables consumer to sync purchases information and receive rewards. Our main task is to develop the designed modules and features as well as full customization of the app including local storage of data using Core Data.",
 			"role": "Junior Developer",
 			"startDate": "2016",
 			"endDate": "2017",
-			"technologies": "Swift, Parse"
+			"technologies": "Swift, Parse, Core Data"
 		}, {
 			"name": "GiftIt",
-			"description": "A social mobile application that enables users to launch personalized gift campaigns to fund any gift items from merchant shops or charity causes from foundation partners.",
+			"description": "A social mobile application that enables users to launch personalized gift campaigns to fund any gift items from merchant shops or charity causes from foundation partners. Our main task is to develop the designed modules and features as well as full customization of the app.",
 			"role": "Junior Developer",
 			"startDate": "2016",
 			"endDate": "2017",
