@@ -1,0 +1,60 @@
+{
+  "basics": {
+    "name": “Kenneth Esguerra“,
+    "label": “iOS Mobile Application Developer“,
+    "picture": "https://preview.ibb.co/eXNBqk/17620269_1883357155244001_254477246638332798_o.jpg",
+    "email": “iamkenjobs@gmail.com”,
+    "phone": "+639753671022”
+  },
+  "education": [{
+    "institution": “Jose Rizal University“,
+    "course": "Information Technology",
+    "studyType": "Bachelor",
+    "startDate": “2010”,
+    "endDate": “2017”
+  }],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "technologies":[{
+        "name": “Swift”,
+        "number_of_years": 1
+      }, {
+        "name": “PHP”,
+        "number_of_years": 2
+      }, {
+        "name": “Objective C“,
+        "number_of_years": 1
+      }, {
+        "name": “Java”,
+        "number_of_years": 2
+      }]
+    }],
+  "work": [{
+    "company": “Rogomi Inc.“,
+    "position": “Mobile Developer“,
+    "startDate": “October 2016”,
+    "endDate": "Present",
+    "summary": "",
+    "highlights": [],
+    "projects":[
+      {
+        "name”:”ShApp4Points”,
+        "description”:”A business to consumer mobile application that enables consumer to sync purchases information and receive rewards. Our main task is to develop the designed modules and features as well as full customization of the app.”,
+        "role”:”Junior Developer”,
+        "startDate":"2016",
+        "endDate”:”2017”,
+        "technologies”:”Swift, Parse”
+      },{
+        "name”:”GiftIt”,
+        "description”:”A social mobile application that enables users to launch personalized gift campaigns to fund any gift items from merchant shops or charity causes from foundation partners.“,
+        "role":"Junior Developer",
+        "startDate”:”2016”,
+        "endDate”:”2017”,
+        "technologies”:”Objective C“
+      }
+    ]
+  }
+  ],
+  "certification": []
+}
