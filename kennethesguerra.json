@@ -53,12 +53,6 @@
 	}
 	],
 	"work": [{
-		"company": "Rogomi Inc.",
-		"position": "Mobile Developer",
-		"startDate": "October 2016",
-		"endDate": "Present",
-		"summary": "Develop iOS mobile application projects' modules of our company. Contribute on UI development of the app and helped in improving standards on local storage related features using iOS technology, Core Data.",
-		"highlights": [],
 		"projects": [{
 			"name": "ShApp4Points",
 			"description": "An analytics app whose purpose is to collect user shopping behavior pattern information; users register and use the app to enter their purchase trip. With the information gathered, they can send certain surveys and usage questionnaires for reward points to be used for GCs, household appliances, and more. Our main task is to develop the designed modules and features as well as full customization of the app including local storage of data using Core Data.",
