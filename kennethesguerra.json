@@ -20,10 +20,38 @@
 			"name": "Swift",
 			"number_of_years": 1
 		}, {
+			"name": "PHP",
+			"number_of_years": 2
+		}, {
 			"name": "Objective C",
 			"number_of_years": 1
-		}
-	]},
+		}, {
+			"name": "Java",
+			"number_of_years": 2
+		}]
+	}, 
+		{
+		"category": "Version Control",
+		"technologies": [{
+			"name": "Git",
+			"number_of_years": 1
+		}]
+	},
+		{
+		"category": "Web Technologies",
+		"technologies": [{
+			"name": "CSS, Javascript",
+			"number_of_years": 2
+		}]
+	},
+		{
+		"category": "Databases",
+		"technologies": [{
+			"name": "MySQL",
+			"number_of_years": 2
+		}]
+	}
+	],
 	"work": [{
 		"projects": [{
 			"name": "ShApp4Points",
@@ -31,14 +59,12 @@
 			"role": "Junior Developer",
 			"startDate": "2016",
 			"endDate": "2017",
-			"months": "(12 months)",
-			"technologies": "Swift"
+			"technologies": "Swift, Parse, Core Data"
 		}, {
 			"name": "GiftIt",
 			"description": "A social mobile application that enables users to launch personalized gift campaigns to fund any gift items from merchant shops or charity causes from foundation partners. Our main task is to develop the designed modules and features as well as full customization of the app.",
 			"role": "Junior Developer",
 			"startDate": "2016",
-			"months": "(6 months)",
 			"endDate": "2017",
 			"technologies": "Objective C"
 		}]
