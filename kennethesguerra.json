@@ -20,15 +20,9 @@
 			"name": "Swift",
 			"number_of_years": 1
 		}, {
-			"name": "PHP",
-			"number_of_years": 2
-		}, {
 			"name": "Objective C",
 			"number_of_years": 1
-		}, {
-			"name": "Java",
-			"number_of_years": 2
-		}]
+		}
 	}
 	],
 	"work": [{
